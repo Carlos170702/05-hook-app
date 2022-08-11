@@ -1,0 +1,28 @@
+body{
+    padding: 20px;
+}
+
+button{
+    margin-right: 10px;
+}
+
+.form-control{
+    margin-top: 2em;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-around;
+}
+
+.code{
+    display: block;
+    text-align: center;
+}
+
+/* a{
+    display: inline;
+    margin-right: 10px;
+    text-decoration: none;
+    color: white;
+} */
